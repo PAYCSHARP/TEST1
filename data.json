@@ -7,6 +7,10 @@
             "postal_code": "49577",
             "country": "Německo"
         },
+        "GPS_coordinates": {
+            "latitude": "52.5448756",
+            "longitude": "7.8691995"
+        },
         "issues": [
             {
                 "key": "TC-499",
@@ -38,6 +42,7 @@
             "postal_code": "D-01906",
             "country": "Německo"
         },
+        "GPS_coordinates": null,
         "issues": [
             {
                 "key": "TC-484",
@@ -58,6 +63,10 @@
             "city": "Mockrehna",
             "postal_code": "04862",
             "country": "Německo"
+        },
+        "GPS_coordinates": {
+            "latitude": "51.521805650000005",
+            "longitude": "12.798470819949344"
         },
         "issues": [
             {
@@ -115,6 +124,7 @@
             "postal_code": null,
             "country": "Španělsko"
         },
+        "GPS_coordinates": null,
         "issues": [
             {
                 "key": "TC-473",
@@ -130,6 +140,10 @@
             "city": "Boxmeer",
             "postal_code": "5831 GH ",
             "country": "Nizozemsko"
+        },
+        "GPS_coordinates": {
+            "latitude": "51.6468418",
+            "longitude": "5.9468313"
         },
         "issues": [
             {
@@ -157,6 +171,10 @@
             "postal_code": "14806",
             "country": "Německo"
         },
+        "GPS_coordinates": {
+            "latitude": "52.135685",
+            "longitude": "12.5831048"
+        },
         "issues": [
             {
                 "key": "TC-348",
@@ -183,6 +201,10 @@
             "postal_code": "15320",
             "country": "Německo"
         },
+        "GPS_coordinates": {
+            "latitude": "52.6111134",
+            "longitude": "14.1947648"
+        },
         "issues": [
             {
                 "key": "TC-343",
@@ -198,6 +220,10 @@
             "city": "Ahlhorn",
             "postal_code": "26197",
             "country": "Německo"
+        },
+        "GPS_coordinates": {
+            "latitude": "52.900069",
+            "longitude": "8.21294155"
         },
         "issues": [
             {
@@ -230,6 +256,10 @@
             "postal_code": null,
             "country": null
         },
+        "GPS_coordinates": {
+            "latitude": "44.9379672",
+            "longitude": "7.5400398"
+        },
         "issues": [
             {
                 "key": "TC-239",
@@ -245,6 +275,10 @@
             "city": "Wallhausen",
             "postal_code": "74599",
             "country": "Německo"
+        },
+        "GPS_coordinates": {
+            "latitude": "49.2167955",
+            "longitude": "10.073771281497967"
         },
         "issues": [
             {
@@ -262,6 +296,7 @@
             "postal_code": "D-48455",
             "country": "Německo"
         },
+        "GPS_coordinates": null,
         "issues": [
             {
                 "key": "TC-53",
