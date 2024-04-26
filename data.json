@@ -350,4 +350,2486 @@
                 "key": "TC-101",
                 "summary": "CZ-Veit VEIT26 50318",
                 "link": "https://veit.atlassian.net/browse/TC-101"
-    ÿ
+            }
+        ]
+    },
+    {
+        "Customer name": "Erb brüterei ag",
+        "Address": {
+            "street": "Schlossstrasse 109",
+            "city": "Aeschlen b. Oberdiessbach",
+            "postal_code": "3672 ",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-531",
+                "summary": "CH-Erb Bruterei VEIT7,5 50524",
+                "link": "https://veit.atlassian.net/browse/TC-531"
+            },
+            {
+                "key": "TC-315",
+                "summary": "CH-ERB Brüterei VEIT12 11121",
+                "link": "https://veit.atlassian.net/browse/TC-315"
+            }
+        ]
+    },
+    {
+        "Customer name": "Alfa chicken s.r.l.",
+        "Address": {
+            "street": "Alesd",
+            "city": "Bihor",
+            "postal_code": null,
+            "country": "Rumunsko"
+        },
+        "issues": [
+            {
+                "key": "TC-530",
+                "summary": "RO-Alfa Chicken VEIT26 20624",
+                "link": "https://veit.atlassian.net/browse/TC-530"
+            },
+            {
+                "key": "TC-529",
+                "summary": "RO-Alfa Chicken VEIT26 40524",
+                "link": "https://veit.atlassian.net/browse/TC-529"
+            },
+            {
+                "key": "TC-323",
+                "summary": "HU-Chick Transport VEIT40 51021",
+                "link": "https://veit.atlassian.net/browse/TC-323"
+            }
+        ]
+    },
+    {
+        "Customer name": "Brüterei stöckli ag",
+        "Address": {
+            "street": "Luthernau",
+            "city": "Ohmstal",
+            "postal_code": "CH-6143",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-528",
+                "summary": "BC2022076 CH-Stöckli VEIT12 30524",
+                "link": "https://veit.atlassian.net/browse/TC-528"
+            },
+            {
+                "key": "TC-258",
+                "summary": "CH-Stöckli VEIT12 11020",
+                "link": "https://veit.atlassian.net/browse/TC-258"
+            }
+        ]
+    },
+    {
+        "Customer name": "Berkenhof bvba",
+        "Address": {
+            "street": "MOORTELWEG 9, IEPER,",
+            "city": "BOEZINGE",
+            "postal_code": "8904",
+            "country": "Belgie",
+            "latitude": "50.8834676",
+            "longitude": "2.900552292345813"
+        },
+        "issues": [
+            {
+                "key": "TC-525",
+                "summary": "BE-Berkenhof VEIT26 10524",
+                "link": "https://veit.atlassian.net/browse/TC-525"
+            },
+            {
+                "key": "TC-251",
+                "summary": "BE-Berkenhof VEIT26 10820",
+                "link": "https://veit.atlassian.net/browse/TC-251"
+            },
+            {
+                "key": "TC-136",
+                "summary": "B-Berkenhof VEIT40 20319",
+                "link": "https://veit.atlassian.net/browse/TC-136"
+            },
+            {
+                "key": "TC-29",
+                "summary": "B-Berkenhof VEIT40 30616",
+                "link": "https://veit.atlassian.net/browse/TC-29"
+            }
+        ]
+    },
+    {
+        "Customer name": "Integra sp. z o.o.",
+        "Address": {
+            "street": "ul. Armii Krajowej 80 ",
+            "city": "Karczew",
+            "postal_code": "05-480 ",
+            "country": "Polsko"
+        },
+        "issues": [
+            {
+                "key": "TC-523",
+                "summary": "CZ-Integra VEIT26HC 30424",
+                "link": "https://veit.atlassian.net/browse/TC-523"
+            },
+            {
+                "key": "TC-378",
+                "summary": "CZ - Integra MAN 18t 10207",
+                "link": "https://veit.atlassian.net/browse/TC-378"
+            },
+            {
+                "key": "TC-242",
+                "summary": "CZ-Integra DAF 10913",
+                "link": "https://veit.atlassian.net/browse/TC-242"
+            },
+            {
+                "key": "TC-183",
+                "summary": "CZ-Integra SVAN 10110",
+                "link": "https://veit.atlassian.net/browse/TC-183"
+            },
+            {
+                "key": "TC-152",
+                "summary": "CZ-Integra VEIT26 20719",
+                "link": "https://veit.atlassian.net/browse/TC-152"
+            },
+            {
+                "key": "TC-43",
+                "summary": "CZ-Integra VEIT3,5UL 10317",
+                "link": "https://veit.atlassian.net/browse/TC-43"
+            }
+        ]
+    },
+    {
+        "Customer name": "Aneta goch",
+        "Address": {
+            "street": "ul. Koscielna 85",
+            "city": "Bialobrzegi",
+            "postal_code": "26-800",
+            "country": "Polsko"
+        },
+        "issues": [
+            {
+                "key": "TC-521",
+                "summary": "PL-Aneta Goch VEIT26 30324",
+                "link": "https://veit.atlassian.net/browse/TC-521"
+            },
+            {
+                "key": "TC-135",
+                "summary": "PL-Aneta Goch VEIT3,5UL 10319",
+                "link": "https://veit.atlassian.net/browse/TC-135"
+            }
+        ]
+    },
+    {
+        "Customer name": "Novogen uk ltd",
+        "Address": {
+            "street": "2 White Houses",
+            "city": "Billesley - Alcester",
+            "postal_code": "B49 6NE",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-505",
+                "summary": "GB-Novogen VEIT26 40124",
+                "link": "https://veit.atlassian.net/browse/TC-505"
+            }
+        ]
+    },
+    {
+        "Customer name": "Lohmann deutschland gmbh & co. kg",
+        "Address": {
+            "street": "Druchhorner Straße 35",
+            "city": "Ankum",
+            "postal_code": "49577",
+            "country": "Německo",
+            "latitude": "52.5448756",
+            "longitude": "7.8691995"
+        },
+        "issues": [
+            {
+                "key": "TC-499",
+                "summary": "DE-Lohmann VEIT26 31223",
+                "link": "https://veit.atlassian.net/browse/TC-499"
+            },
+            {
+                "key": "TC-485",
+                "summary": "DE-Lohmann VEIT26 20623",
+                "link": "https://veit.atlassian.net/browse/TC-485"
+            },
+            {
+                "key": "TC-449",
+                "summary": "DE-Lohmann VEIT26 50822",
+                "link": "https://veit.atlassian.net/browse/TC-449"
+            },
+            {
+                "key": "TC-134",
+                "summary": "DE-Lohmann VEIT3,5UL 40219 ",
+                "link": "https://veit.atlassian.net/browse/TC-134"
+            }
+        ]
+    },
+    {
+        "Customer name": "Broeierij vervaeke-belavi nv",
+        "Address": {
+            "street": "Oude Kapellestraat 65",
+            "city": "Tielt",
+            "postal_code": "8700",
+            "country": "Belgie",
+            "latitude": "51.007213050000004",
+            "longitude": "3.331850658847892"
+        },
+        "issues": [
+            {
+                "key": "TC-498",
+                "summary": "BE-Vervaeke VEIT26 21223",
+                "link": "https://veit.atlassian.net/browse/TC-498"
+            },
+            {
+                "key": "TC-121",
+                "summary": "B-Vervaeke VEIT26 41218",
+                "link": "https://veit.atlassian.net/browse/TC-121"
+            },
+            {
+                "key": "TC-61",
+                "summary": "B-Vervaeke VEIT3,5UL 30817",
+                "link": "https://veit.atlassian.net/browse/TC-61"
+            },
+            {
+                "key": "TC-20",
+                "summary": "B-Vervaeke VEIT26HC 30316",
+                "link": "https://veit.atlassian.net/browse/TC-20"
+            }
+        ]
+    },
+    {
+        "Customer name": "Moy park limited.",
+        "Address": {
+            "street": "39 Seagoe Industrial Estate",
+            "city": "Craigavon, Co. Armagh",
+            "postal_code": "BT63 5QE",
+            "country": "United Kingdom (Northern Ireland)"
+        },
+        "issues": [
+            {
+                "key": "TC-497",
+                "summary": "GB-Moy Park VEIT26 11223",
+                "link": "https://veit.atlassian.net/browse/TC-497"
+            },
+            {
+                "key": "TC-456",
+                "summary": "GB-Moy Park VEIT26 11022",
+                "link": "https://veit.atlassian.net/browse/TC-456"
+            },
+            {
+                "key": "TC-455",
+                "summary": "GB-Moy Park VEIT26 60922",
+                "link": "https://veit.atlassian.net/browse/TC-455"
+            },
+            {
+                "key": "TC-454",
+                "summary": "GB-Moy Park VEIT26 50922",
+                "link": "https://veit.atlassian.net/browse/TC-454"
+            },
+            {
+                "key": "TC-450",
+                "summary": "GB-Moy Park VEIT26 60822",
+                "link": "https://veit.atlassian.net/browse/TC-450"
+            }
+        ]
+    },
+    {
+        "Customer name": "Emi massuot yitzchak",
+        "Address": {
+            "street": "M.P.Sde Gat",
+            "city": null,
+            "postal_code": "79858",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-495",
+                "summary": "HU-S-Cargo VEIT40 11123",
+                "link": "https://veit.atlassian.net/browse/TC-495"
+            },
+            {
+                "key": "TC-372",
+                "summary": "HU - S-Cargo SVAN 11008",
+                "link": "https://veit.atlassian.net/browse/TC-372"
+            },
+            {
+                "key": "TC-313",
+                "summary": "ISR-EMI VEIT26 11021",
+                "link": "https://veit.atlassian.net/browse/TC-313"
+            },
+            {
+                "key": "TC-285",
+                "summary": "HU-S-Cargo VEIT40 30521",
+                "link": "https://veit.atlassian.net/browse/TC-285"
+            },
+            {
+                "key": "TC-210",
+                "summary": "HU-S-Cargo SVAN 10214",
+                "link": "https://veit.atlassian.net/browse/TC-210"
+            },
+            {
+                "key": "TC-192",
+                "summary": "HU-S-Cargo VEIT40 20919",
+                "link": "https://veit.atlassian.net/browse/TC-192"
+            },
+            {
+                "key": "TC-137",
+                "summary": "HU-S-Cargo VEIT40 30319",
+                "link": "https://veit.atlassian.net/browse/TC-137"
+            },
+            {
+                "key": "TC-104",
+                "summary": "HU-S-Cargo VEIT3,5UL 20718",
+                "link": "https://veit.atlassian.net/browse/TC-104"
+            },
+            {
+                "key": "TC-103",
+                "summary": "ISR-EMI VEIT26 10718",
+                "link": "https://veit.atlassian.net/browse/TC-103"
+            },
+            {
+                "key": "TC-62",
+                "summary": "ISR-EMI VEIT26 40817",
+                "link": "https://veit.atlassian.net/browse/TC-62"
+            },
+            {
+                "key": "TC-14",
+                "summary": "HU-S-Cargo VEIT26 41117",
+                "link": "https://veit.atlassian.net/browse/TC-14"
+            }
+        ]
+    },
+    {
+        "Customer name": "Zaklad wylegu drobiu dziak",
+        "Address": {
+            "street": "ul. Pilsudskiego 89a",
+            "city": "Kolbuszowa",
+            "postal_code": "36-100",
+            "country": "Polsko"
+        },
+        "issues": [
+            {
+                "key": "TC-487",
+                "summary": "PL-Dziak VEIT26-s 20823",
+                "link": "https://veit.atlassian.net/browse/TC-487"
+            },
+            {
+                "key": "TC-35",
+                "summary": "PL-Dziak VEIT5 31116",
+                "link": "https://veit.atlassian.net/browse/TC-35"
+            }
+        ]
+    },
+    {
+        "Customer name": "Ovovac gmbh",
+        "Address": {
+            "street": "Säuritzer Strasse Ost 5",
+            "city": "Burkau",
+            "postal_code": "D-01906",
+            "country": "Německo"
+        },
+        "issues": [
+            {
+                "key": "TC-484",
+                "summary": "DE-Ovovac VEIT26 10623",
+                "link": "https://veit.atlassian.net/browse/TC-484"
+            },
+            {
+                "key": "TC-444",
+                "summary": "DE-Ovovac VEIT26 30822",
+                "link": "https://veit.atlassian.net/browse/TC-444"
+            }
+        ]
+    },
+    {
+        "Customer name": "Wimex geflügel sachsen gmbh",
+        "Address": {
+            "street": "Dommitzscher Straße 10",
+            "city": "Mockrehna",
+            "postal_code": "04862",
+            "country": "Německo",
+            "latitude": "51.521805650000005",
+            "longitude": "12.798470819949344"
+        },
+        "issues": [
+            {
+                "key": "TC-482",
+                "summary": "DE-Wimex VEIT40 20523",
+                "link": "https://veit.atlassian.net/browse/TC-482"
+            },
+            {
+                "key": "TC-384",
+                "summary": "DE - Wimex 26t 10607",
+                "link": "https://veit.atlassian.net/browse/TC-384"
+            },
+            {
+                "key": "TC-231",
+                "summary": "DE-Wimex SVAN 10914",
+                "link": "https://veit.atlassian.net/browse/TC-231"
+            },
+            {
+                "key": "TC-224",
+                "summary": "DE-Wimex VEIT40 30420",
+                "link": "https://veit.atlassian.net/browse/TC-224"
+            },
+            {
+                "key": "TC-223",
+                "summary": "DE-Wimex VEIT40 20420",
+                "link": "https://veit.atlassian.net/browse/TC-223"
+            },
+            {
+                "key": "TC-82",
+                "summary": "DE-Wimex VEIT40 40218",
+                "link": "https://veit.atlassian.net/browse/TC-82"
+            },
+            {
+                "key": "TC-81",
+                "summary": "DE-Wimex VEIT3,5UL 30218",
+                "link": "https://veit.atlassian.net/browse/TC-81"
+            },
+            {
+                "key": "TC-34",
+                "summary": "DE-Wimex VEIT40 21116",
+                "link": "https://veit.atlassian.net/browse/TC-34"
+            },
+            {
+                "key": "TC-33",
+                "summary": "DE-Wimex VEIT40 11116",
+                "link": "https://veit.atlassian.net/browse/TC-33"
+            }
+        ]
+    },
+    {
+        "Customer name": "Ramit",
+        "Address": {
+            "street": "P.O. Box 3472",
+            "city": "Hadera",
+            "postal_code": "38133",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-481",
+                "summary": "ISR-Ramit VEIT26 10523",
+                "link": "https://veit.atlassian.net/browse/TC-481"
+            },
+            {
+                "key": "TC-69",
+                "summary": "PL-AMI VEIT18 21117",
+                "link": "https://veit.atlassian.net/browse/TC-69"
+            },
+            {
+                "key": "TC-68",
+                "summary": "PL-AMI VEIT12 11117",
+                "link": "https://veit.atlassian.net/browse/TC-68"
+            }
+        ]
+    },
+    {
+        "Customer name": "Efrat broiler breeders ltd",
+        "Address": {
+            "street": "P.O. Box 3472",
+            "city": "Hedera",
+            "postal_code": "38133",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-480",
+                "summary": "ISR-Efrat VEIT26 50423",
+                "link": "https://veit.atlassian.net/browse/TC-480"
+            },
+            {
+                "key": "TC-435",
+                "summary": "ISR-Efrat VEIT12 40622",
+                "link": "https://veit.atlassian.net/browse/TC-435"
+            },
+            {
+                "key": "TC-355",
+                "summary": "RU - Broiler of the future SVAN 21112",
+                "link": "https://veit.atlassian.net/browse/TC-355"
+            },
+            {
+                "key": "TC-353",
+                "summary": "RU - Broiler of the future SVAN 11112",
+                "link": "https://veit.atlassian.net/browse/TC-353"
+            },
+            {
+                "key": "TC-189",
+                "summary": "RU-Broiler of the Future SVAN 20213",
+                "link": "https://veit.atlassian.net/browse/TC-189"
+            },
+            {
+                "key": "TC-8",
+                "summary": " ISR-Efrat VEIT26 40718",
+                "link": "https://veit.atlassian.net/browse/TC-8"
+            }
+        ]
+    },
+    {
+        "Customer name": "Mediterranea de transportes trabepol sl",
+        "Address": {
+            "street": null,
+            "city": null,
+            "postal_code": null,
+            "country": "Španělsko"
+        },
+        "issues": [
+            {
+                "key": "TC-473",
+                "summary": "DE-Ab ovo VEIT12 10323",
+                "link": "https://veit.atlassian.net/browse/TC-473"
+            }
+        ]
+    },
+    {
+        "Customer name": "Ab kauno grudai",
+        "Address": {
+            "street": "H. ir O. Minkovskiu g. 63.",
+            "city": "Kaunas, Lietuva",
+            "postal_code": "46550",
+            "country": "Litva"
+        },
+        "issues": [
+            {
+                "key": "TC-470",
+                "summary": "LTU-Kauno VEIT26 20223",
+                "link": "https://veit.atlassian.net/browse/TC-470"
+            }
+        ]
+    },
+    {
+        "Customer name": "Kvutzat yavne ltd.",
+        "Address": {
+            "street": "Kibbutz Yavne",
+            "city": "D.N Evtah",
+            "postal_code": "7923300",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-466",
+                "summary": "ISR-Yavne VEIT26 10123",
+                "link": "https://veit.atlassian.net/browse/TC-466"
+            },
+            {
+                "key": "TC-318",
+                "summary": "ISR-Yavne VEIT26 31021",
+                "link": "https://veit.atlassian.net/browse/TC-318"
+            },
+            {
+                "key": "TC-95",
+                "summary": "ISR-Yavne VEIT26 30418",
+                "link": "https://veit.atlassian.net/browse/TC-95"
+            }
+        ]
+    },
+    {
+        "Customer name": "Cobb europe bv",
+        "Address": {
+            "street": "Koorstraat 2",
+            "city": "Boxmeer",
+            "postal_code": "5831 GH ",
+            "country": "Nizozemsko",
+            "latitude": "51.6468418",
+            "longitude": "5.9468313"
+        },
+        "issues": [
+            {
+                "key": "TC-465",
+                "summary": "DE-Cobb Avimex VEIT26 21222",
+                "link": "https://veit.atlassian.net/browse/TC-465"
+            },
+            {
+                "key": "TC-420",
+                "summary": "DE - Cobb Germany Volvo 10714",
+                "link": "https://veit.atlassian.net/browse/TC-420"
+            },
+            {
+                "key": "TC-252",
+                "summary": "DE-Cobb-Wimex VOLVO 26t 10909",
+                "link": "https://veit.atlassian.net/browse/TC-252"
+            },
+            {
+                "key": "TC-170",
+                "summary": "CN-Cobb 30715",
+                "link": "https://veit.atlassian.net/browse/TC-170"
+            },
+            {
+                "key": "TC-159",
+                "summary": "CN-Cobb 21115",
+                "link": "https://veit.atlassian.net/browse/TC-159"
+            },
+            {
+                "key": "TC-158",
+                "summary": "CN-Cobb 21015",
+                "link": "https://veit.atlassian.net/browse/TC-158"
+            },
+            {
+                "key": "TC-157",
+                "summary": "CN-Cobb 11015",
+                "link": "https://veit.atlassian.net/browse/TC-157"
+            },
+            {
+                "key": "TC-71",
+                "summary": "UK-Cobb VEIT26 11217",
+                "link": "https://veit.atlassian.net/browse/TC-71"
+            }
+        ]
+    },
+    {
+        "Customer name": "Gallus kft.",
+        "Address": {
+            "street": "Levente telep 1",
+            "city": "Devecser",
+            "postal_code": "8460",
+            "country": "Maďarsko",
+            "latitude": "47.1133728",
+            "longitude": "17.4351445"
+        },
+        "issues": [
+            {
+                "key": "TC-462",
+                "summary": "HU-Gallus VEIT40 41122",
+                "link": "https://veit.atlassian.net/browse/TC-462"
+            },
+            {
+                "key": "TC-461",
+                "summary": "HU-Gallus VEIT40 31122",
+                "link": "https://veit.atlassian.net/browse/TC-461"
+            },
+            {
+                "key": "TC-386",
+                "summary": "HU - Gallus IVECO 18t 10706",
+                "link": "https://veit.atlassian.net/browse/TC-386"
+            },
+            {
+                "key": "TC-290",
+                "summary": "HU-Gallus VEIT26 20721",
+                "link": "https://veit.atlassian.net/browse/TC-290"
+            },
+            {
+                "key": "TC-272",
+                "summary": "HU-Gallus 11208 VEIT26",
+                "link": "https://veit.atlassian.net/browse/TC-272"
+            },
+            {
+                "key": "TC-259",
+                "summary": "HU-Gallus MAN 26t 20813",
+                "link": "https://veit.atlassian.net/browse/TC-259"
+            },
+            {
+                "key": "TC-199",
+                "summary": "HU-Gallus MAN 18t 10908",
+                "link": "https://veit.atlassian.net/browse/TC-199"
+            },
+            {
+                "key": "TC-180",
+                "summary": "HU-Gallus VEIT40 40819",
+                "link": "https://veit.atlassian.net/browse/TC-180"
+            },
+            {
+                "key": "TC-178",
+                "summary": "HU-Gallus VEIT26 21213",
+                "link": "https://veit.atlassian.net/browse/TC-178"
+            },
+            {
+                "key": "TC-97",
+                "summary": "HU-Gallus VEIT40 10518",
+                "link": "https://veit.atlassian.net/browse/TC-97"
+            },
+            {
+                "key": "TC-96",
+                "summary": "HU-Gallus VEIT40 40418",
+                "link": "https://veit.atlassian.net/browse/TC-96"
+            },
+            {
+                "key": "TC-50",
+                "summary": "HU-Gallus VEIT3,5UL 20517",
+                "link": "https://veit.atlassian.net/browse/TC-50"
+            },
+            {
+                "key": "TC-49",
+                "summary": "HU-Gallus VEIT3,5UL 10517",
+                "link": "https://veit.atlassian.net/browse/TC-49"
+            },
+            {
+                "key": "TC-13",
+                "summary": "HU-Gallus VEIT40 30417",
+                "link": "https://veit.atlassian.net/browse/TC-13"
+            }
+        ]
+    },
+    {
+        "Customer name": "Xaverov, a.s.",
+        "Address": {
+            "street": "Kutnohorská 474",
+            "city": "Kostelec nad Černými lesy",
+            "postal_code": "281 63",
+            "country": "Česká republika",
+            "latitude": "49.9873475",
+            "longitude": "14.8660425"
+        },
+        "issues": [
+            {
+                "key": "TC-460",
+                "summary": "CZ-Xaverov VEIT26 21122",
+                "link": "https://veit.atlassian.net/browse/TC-460"
+            },
+            {
+                "key": "TC-414",
+                "summary": "CZ - Xaverov (Xavergen) IVECO 90109",
+                "link": "https://veit.atlassian.net/browse/TC-414"
+            },
+            {
+                "key": "TC-409",
+                "summary": "CZ - Xaverov (Xavergen) UO IVECO 10403 SPZ:6S1 7384",
+                "link": "https://veit.atlassian.net/browse/TC-409"
+            },
+            {
+                "key": "TC-408",
+                "summary": "CZ - Xaverov (Xavergen) Otín IVECO 20503",
+                "link": "https://veit.atlassian.net/browse/TC-408"
+            },
+            {
+                "key": "TC-407",
+                "summary": "CZ - Xaverov (Xavergen) Habry IVECO 10703",
+                "link": "https://veit.atlassian.net/browse/TC-407"
+            },
+            {
+                "key": "TC-396",
+                "summary": "CZ - Xaverov (Xavergen) 10405",
+                "link": "https://veit.atlassian.net/browse/TC-396"
+            },
+            {
+                "key": "TC-391",
+                "summary": "CZ - Xaverov (Xavergen) SVAN 10206",
+                "link": "https://veit.atlassian.net/browse/TC-391"
+            },
+            {
+                "key": "TC-105",
+                "summary": "CZ-Xaverov VEIT26 30718",
+                "link": "https://veit.atlassian.net/browse/TC-105"
+            },
+            {
+                "key": "TC-66",
+                "summary": "CZ-Xaverov VEIT40 21017",
+                "link": "https://veit.atlassian.net/browse/TC-66"
+            }
+        ]
+    },
+    {
+        "Customer name": "Best, spol. s r. o.",
+        "Address": {
+            "street": "Přemyslovců 449/60",
+            "city": "Opava – Jaktař",
+            "postal_code": "747 07",
+            "country": "Česká republika",
+            "latitude": "49.9503889",
+            "longitude": "17.8606745"
+        },
+        "issues": [
+            {
+                "key": "TC-458",
+                "summary": "CZ-Best VEIT26s 31022",
+                "link": "https://veit.atlassian.net/browse/TC-458"
+            },
+            {
+                "key": "TC-416",
+                "summary": "CZ - Best IVECO 90103",
+                "link": "https://veit.atlassian.net/browse/TC-416"
+            },
+            {
+                "key": "TC-241",
+                "summary": "CZ - Best IVECO 10612",
+                "link": "https://veit.atlassian.net/browse/TC-241"
+            },
+            {
+                "key": "TC-70",
+                "summary": "CZ-Best VEIT26HC 31117",
+                "link": "https://veit.atlassian.net/browse/TC-70"
+            },
+            {
+                "key": "TC-9",
+                "summary": "CZ-Best VEIT26 10510",
+                "link": "https://veit.atlassian.net/browse/TC-9"
+            }
+        ]
+    },
+    {
+        "Customer name": "Agromanager kkt",
+        "Address": {
+            "street": "Felsőbabád 0514/3",
+            "city": "Ócsa",
+            "postal_code": "2364 ",
+            "country": "Maďarsko"
+        },
+        "issues": [
+            {
+                "key": "TC-457",
+                "summary": "HU-Agromanager VEIT26 21022",
+                "link": "https://veit.atlassian.net/browse/TC-457"
+            },
+            {
+                "key": "TC-362",
+                "summary": "HU - Agromanager DAF 26t 10610",
+                "link": "https://veit.atlassian.net/browse/TC-362"
+            },
+            {
+                "key": "TC-274",
+                "summary": "HU-Agromanager VEIT3,5UL 10321",
+                "link": "https://veit.atlassian.net/browse/TC-274"
+            },
+            {
+                "key": "TC-119",
+                "summary": "HU-Agromanager VEIT18 11218",
+                "link": "https://veit.atlassian.net/browse/TC-119"
+            }
+        ]
+    },
+    {
+        "Customer name": "Perena, spol. s r.o.",
+        "Address": {
+            "street": "Boženy Němcové 127",
+            "city": "Chlumec nad Cidlinou",
+            "postal_code": "503 51",
+            "country": "Česká republika",
+            "latitude": "50.1603567",
+            "longitude": "15.4664152"
+        },
+        "issues": [
+            {
+                "key": "TC-452",
+                "summary": "CZ-Perena VEIT3,5UL 60622",
+                "link": "https://veit.atlassian.net/browse/TC-452"
+            },
+            {
+                "key": "TC-354",
+                "summary": "CZ - Perena přestavba",
+                "link": "https://veit.atlassian.net/browse/TC-354"
+            },
+            {
+                "key": "TC-352",
+                "summary": "CZ- Perena MAN 18t 11012",
+                "link": "https://veit.atlassian.net/browse/TC-352"
+            },
+            {
+                "key": "TC-333",
+                "summary": "CZ-Perena MAN 18t 21014",
+                "link": "https://veit.atlassian.net/browse/TC-333"
+            },
+            {
+                "key": "TC-277",
+                "summary": "CZ-Perena VEIT3,5UL 40321",
+                "link": "https://veit.atlassian.net/browse/TC-277"
+            },
+            {
+                "key": "TC-276",
+                "summary": "CZ-Perena VEIT18 30321",
+                "link": "https://veit.atlassian.net/browse/TC-276"
+            },
+            {
+                "key": "TC-249",
+                "summary": "CZ-Perena IVECO 19t 10808",
+                "link": "https://veit.atlassian.net/browse/TC-249"
+            },
+            {
+                "key": "TC-177",
+                "summary": "CZ-Perena VEIT18 11111",
+                "link": "https://veit.atlassian.net/browse/TC-177"
+            },
+            {
+                "key": "TC-109",
+                "summary": "CZ-Perena VEIT18 20918",
+                "link": "https://veit.atlassian.net/browse/TC-109"
+            },
+            {
+                "key": "TC-48",
+                "summary": "CZ-Perena VEIT5 20417",
+                "link": "https://veit.atlassian.net/browse/TC-48"
+            },
+            {
+                "key": "TC-45",
+                "summary": "CZ-Perena VEIT3,5UL 10417",
+                "link": "https://veit.atlassian.net/browse/TC-45"
+            }
+        ]
+    },
+    {
+        "Customer name": "Jjs akeri ab",
+        "Address": {
+            "street": "Skarvvägen 94",
+            "city": "Hagby - Ljungbyholm",
+            "postal_code": "388 96",
+            "country": "Švédsko"
+        },
+        "issues": [
+            {
+                "key": "TC-446",
+                "summary": "SE-Akeri VEIT40 40822",
+                "link": "https://veit.atlassian.net/browse/TC-446"
+            },
+            {
+                "key": "TC-168",
+                "summary": "SE- Akeri VEIT40 20515",
+                "link": "https://veit.atlassian.net/browse/TC-168"
+            },
+            {
+                "key": "TC-102",
+                "summary": "S-Akeri VEIT40 30618",
+                "link": "https://veit.atlassian.net/browse/TC-102"
+            },
+            {
+                "key": "TC-5",
+                "summary": "SE-Akeri VEIT40 20816",
+                "link": "https://veit.atlassian.net/browse/TC-5"
+            }
+        ]
+    },
+    {
+        "Customer name": "Pure breed poultry co.",
+        "Address": {
+            "street": "P.O.Box 7065",
+            "city": "Riyadh",
+            "postal_code": "11462",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-445",
+                "summary": "SA-Pure Breed VEIT26 30522",
+                "link": "https://veit.atlassian.net/browse/TC-445"
+            }
+        ]
+    },
+    {
+        "Customer name": "Trasporti michelone s.r.l.",
+        "Address": {
+            "street": "Via Santhia 46",
+            "city": "Tronzano Vercellese",
+            "postal_code": "13049",
+            "country": "Itálie",
+            "latitude": "45.3478182",
+            "longitude": "8.1737576"
+        },
+        "issues": [
+            {
+                "key": "TC-443",
+                "summary": "IT-Michelone VEIT40 50722",
+                "link": "https://veit.atlassian.net/browse/TC-443"
+            },
+            {
+                "key": "TC-442",
+                "summary": "IT-Michelone VEIT40 40722",
+                "link": "https://veit.atlassian.net/browse/TC-442"
+            },
+            {
+                "key": "TC-143",
+                "summary": "I-Michelone VEIT26 40419",
+                "link": "https://veit.atlassian.net/browse/TC-143"
+            },
+            {
+                "key": "TC-30",
+                "summary": "I-Michelone VEIT 26 10716",
+                "link": "https://veit.atlassian.net/browse/TC-30"
+            }
+        ]
+    },
+    {
+        "Customer name": "Supertrans sp. z o.o",
+        "Address": {
+            "street": "Premyslova 2",
+            "city": "Karczew",
+            "postal_code": "05-480",
+            "country": "Polsko"
+        },
+        "issues": [
+            {
+                "key": "TC-441",
+                "summary": "PL-SuperTrans VEIT26 30722",
+                "link": "https://veit.atlassian.net/browse/TC-441"
+            },
+            {
+                "key": "TC-228",
+                "summary": "PL-SuperTrans VEIT40 10620",
+                "link": "https://veit.atlassian.net/browse/TC-228"
+            }
+        ]
+    },
+    {
+        "Customer name": "Kuljetusliike koivulahti oy",
+        "Address": {
+            "street": "Lanssikuja 10",
+            "city": "Ilmajoki",
+            "postal_code": "60801",
+            "country": "Finsko",
+            "latitude": "62.7292531",
+            "longitude": "22.6035276"
+        },
+        "issues": [
+            {
+                "key": "TC-431",
+                "summary": "FI-Koivulahti VEIT26 20622",
+                "link": "https://veit.atlassian.net/browse/TC-431"
+            }
+        ]
+    },
+    {
+        "Customer name": "Avilog polska sp. z o.o.",
+        "Address": {
+            "street": "ul. Sosnowa 3/5",
+            "city": "Otwock",
+            "postal_code": "05-400",
+            "country": "Polsko"
+        },
+        "issues": [
+            {
+                "key": "TC-430",
+                "summary": "PL-Avilog VEIT26 10322",
+                "link": "https://veit.atlassian.net/browse/TC-430"
+            },
+            {
+                "key": "TC-278",
+                "summary": "PL-Avilog VEIT3,5UL 50321",
+                "link": "https://veit.atlassian.net/browse/TC-278"
+            }
+        ]
+    },
+    {
+        "Customer name": "Baromfi-coop",
+        "Address": {
+            "street": "Petőfi 41",
+            "city": "Nyírkércs",
+            "postal_code": "4537 ",
+            "country": "Maďarsko"
+        },
+        "issues": [
+            {
+                "key": "TC-427",
+                "summary": "HU-Baromfi VEIT26 20522",
+                "link": "https://veit.atlassian.net/browse/TC-427"
+            },
+            {
+                "key": "TC-334",
+                "summary": "HU-Baromfi VEIT40 20422",
+                "link": "https://veit.atlassian.net/browse/TC-334"
+            },
+            {
+                "key": "TC-247",
+                "summary": "HU-Baromfi VEIT40 20720",
+                "link": "https://veit.atlassian.net/browse/TC-247"
+            },
+            {
+                "key": "TC-99",
+                "summary": "HU-Baromfi VEIT3,5UL 30518",
+                "link": "https://veit.atlassian.net/browse/TC-99"
+            },
+            {
+                "key": "TC-98",
+                "summary": "HU-Baromfi VEIT40 20518",
+                "link": "https://veit.atlassian.net/browse/TC-98"
+            },
+            {
+                "key": "TC-31",
+                "summary": "HU-Baromfi-Coop VEIT12 10816",
+                "link": "https://veit.atlassian.net/browse/TC-31"
+            },
+            {
+                "key": "TC-27",
+                "summary": "HU-Baromfi-Coop VEIT26 10616",
+                "link": "https://veit.atlassian.net/browse/TC-27"
+            }
+        ]
+    },
+    {
+        "Customer name": "Lamberet (thailand) co., ltd.",
+        "Address": {
+            "street": "252/119 Rachadapisek Rd., Huaykwang",
+            "city": "Bangkok",
+            "postal_code": "10310 ",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-425",
+                "summary": "TH - Lamberet Komponenty 30215",
+                "link": "https://veit.atlassian.net/browse/TC-425"
+            },
+            {
+                "key": "TC-340",
+                "summary": "TH - Lamberet Komponenty T10414",
+                "link": "https://veit.atlassian.net/browse/TC-340"
+            },
+            {
+                "key": "TC-176",
+                "summary": "TH-Lamberet Components TH50116",
+                "link": "https://veit.atlassian.net/browse/TC-176"
+            },
+            {
+                "key": "TC-175",
+                "summary": "TH-Lamberet Components TH40116",
+                "link": "https://veit.atlassian.net/browse/TC-175"
+            },
+            {
+                "key": "TC-174",
+                "summary": "TH-Lamberet Components TH40615",
+                "link": "https://veit.atlassian.net/browse/TC-174"
+            },
+            {
+                "key": "TC-173",
+                "summary": "TH-Lamberet Components TH30615",
+                "link": "https://veit.atlassian.net/browse/TC-173"
+            },
+            {
+                "key": "TC-129",
+                "summary": "TH-Lamberet Components VEIT18 TH20918",
+                "link": "https://veit.atlassian.net/browse/TC-129"
+            },
+            {
+                "key": "TC-128",
+                "summary": "TH-Lamberet Components VEIT18 TH10918",
+                "link": "https://veit.atlassian.net/browse/TC-128"
+            },
+            {
+                "key": "TC-127",
+                "summary": "TH-Lamberet Components VEIT5 TH20718",
+                "link": "https://veit.atlassian.net/browse/TC-127"
+            },
+            {
+                "key": "TC-126",
+                "summary": "TH-Lamberet Components VEIT5 TH10718",
+                "link": "https://veit.atlassian.net/browse/TC-126"
+            },
+            {
+                "key": "TC-125",
+                "summary": "TH-Lamberet Components VEIT18 TH20518",
+                "link": "https://veit.atlassian.net/browse/TC-125"
+            },
+            {
+                "key": "TC-124",
+                "summary": "TH-Lamberet Components VEIT18 TH10518",
+                "link": "https://veit.atlassian.net/browse/TC-124"
+            },
+            {
+                "key": "TC-79",
+                "summary": "TH-Lamberet Components TH51117",
+                "link": "https://veit.atlassian.net/browse/TC-79"
+            },
+            {
+                "key": "TC-78",
+                "summary": "TH-Lamberet Components TH51017",
+                "link": "https://veit.atlassian.net/browse/TC-78"
+            },
+            {
+                "key": "TC-77",
+                "summary": "TH-Lamberet Components TH41017",
+                "link": "https://veit.atlassian.net/browse/TC-77"
+            },
+            {
+                "key": "TC-76",
+                "summary": "TH-Lamberet Components TH30917",
+                "link": "https://veit.atlassian.net/browse/TC-76"
+            },
+            {
+                "key": "TC-47",
+                "summary": "TH-Lamberet Components TH40117",
+                "link": "https://veit.atlassian.net/browse/TC-47"
+            },
+            {
+                "key": "TC-46",
+                "summary": "TH-Lamberet Components TH30117",
+                "link": "https://veit.atlassian.net/browse/TC-46"
+            },
+            {
+                "key": "TC-40",
+                "summary": "TH-Lamberet Components TH51216",
+                "link": "https://veit.atlassian.net/browse/TC-40"
+            },
+            {
+                "key": "TC-39",
+                "summary": "TH-Lamberet Components TH41216",
+                "link": "https://veit.atlassian.net/browse/TC-39"
+            }
+        ]
+    },
+    {
+        "Customer name": "A-s putnu fabrika kekava",
+        "Address": {
+            "street": "Kekavas novads, Kekavas pagasts,",
+            "city": "Kekava",
+            "postal_code": "LV-2123",
+            "country": "Lotyšsko",
+            "latitude": "56.7903793",
+            "longitude": "24.2162713"
+        },
+        "issues": [
+            {
+                "key": "TC-422",
+                "summary": "LV - Kekava Agro Mercedes 15t 10115",
+                "link": "https://veit.atlassian.net/browse/TC-422"
+            },
+            {
+                "key": "TC-288",
+                "summary": "LTU-Kekava VEIT12 20621",
+                "link": "https://veit.atlassian.net/browse/TC-288"
+            }
+        ]
+    },
+    {
+        "Customer name": "Liaharenský podnik nitra, a.s.",
+        "Address": {
+            "street": "Párovské Háje",
+            "city": "Nitra",
+            "postal_code": "949 01",
+            "country": "Slovenská republika",
+            "latitude": "48.2841179",
+            "longitude": "18.0122805"
+        },
+        "issues": [
+            {
+                "key": "TC-418",
+                "summary": "SK - Nitra IVECO 90106",
+                "link": "https://veit.atlassian.net/browse/TC-418"
+            },
+            {
+                "key": "TC-405",
+                "summary": "SK - Liaharenský podnik Nitra IVECO 7,5t 10803",
+                "link": "https://veit.atlassian.net/browse/TC-405"
+            },
+            {
+                "key": "TC-404",
+                "summary": "SK - Liaharenský podnik Nitra IVECO 12t 10503",
+                "link": "https://veit.atlassian.net/browse/TC-404"
+            },
+            {
+                "key": "TC-403",
+                "summary": "SK - Liaharenský podnik Nitra IVECO 15t 10303",
+                "link": "https://veit.atlassian.net/browse/TC-403"
+            },
+            {
+                "key": "TC-398",
+                "summary": "SK - Liaharenský podnik Nitra 7,5t 10804",
+                "link": "https://veit.atlassian.net/browse/TC-398"
+            },
+            {
+                "key": "TC-397",
+                "summary": "SK - Liaharenský podnik Nitra 12t 10304",
+                "link": "https://veit.atlassian.net/browse/TC-397"
+            },
+            {
+                "key": "TC-385",
+                "summary": "SK - Liaharenský podnik Nitra IVECO 12t 10106",
+                "link": "https://veit.atlassian.net/browse/TC-385"
+            }
+        ]
+    },
+    {
+        "Customer name": "Heijmer van hulst kükenbrüterei gmbh",
+        "Address": {
+            "street": "Fleuerweg 1",
+            "city": "Bad Bentheim",
+            "postal_code": "D-48455",
+            "country": "Německo"
+        },
+        "issues": [
+            {
+                "key": "TC-406",
+                "summary": "CZ - LS Studenec 10603",
+                "link": "https://veit.atlassian.net/browse/TC-406"
+            },
+            {
+                "key": "TC-53",
+                "summary": "DE-Heijmer VEIT26 20617",
+                "link": "https://veit.atlassian.net/browse/TC-53"
+            }
+        ]
+    },
+    {
+        "Customer name": "Auto hrvatska prodajno servisni centri d.o.o.",
+        "Address": {
+            "street": "Zastavnice 25 c, Hrvatski Leskovac",
+            "city": "Brezovica",
+            "postal_code": "10257",
+            "country": "Chorvatsko"
+        },
+        "issues": [
+            {
+                "key": "TC-390",
+                "summary": "RO - Vis Avis MAN 10506",
+                "link": "https://veit.atlassian.net/browse/TC-390"
+            },
+            {
+                "key": "TC-389",
+                "summary": "RO - Vis Avis MAN 10306",
+                "link": "https://veit.atlassian.net/browse/TC-389"
+            },
+            {
+                "key": "TC-337",
+                "summary": "RO - Vis Avis 2 MAN 10514",
+                "link": "https://veit.atlassian.net/browse/TC-337"
+            },
+            {
+                "key": "TC-265",
+                "summary": "RO-Vis Avis 1 MAN 10414",
+                "link": "https://veit.atlassian.net/browse/TC-265"
+            }
+        ]
+    },
+    {
+        "Customer name": "Zwd malec",
+        "Address": {
+            "street": "Dębówka 1a",
+            "city": "Góra Kalwaria",
+            "postal_code": "05-530",
+            "country": "Polsko",
+            "latitude": "51.96191685",
+            "longitude": "21.16677455020803"
+        },
+        "issues": [
+            {
+                "key": "TC-379",
+                "summary": "PL - Malec MAN 26t 10107",
+                "link": "https://veit.atlassian.net/browse/TC-379"
+            },
+            {
+                "key": "TC-366",
+                "summary": "PL - Malec SVAN 20509",
+                "link": "https://veit.atlassian.net/browse/TC-366"
+            },
+            {
+                "key": "TC-351",
+                "summary": "PL - Malec MAN 26t 10812",
+                "link": "https://veit.atlassian.net/browse/TC-351"
+            },
+            {
+                "key": "TC-140",
+                "summary": "PL-Malec VEIT26 10419",
+                "link": "https://veit.atlassian.net/browse/TC-140"
+            },
+            {
+                "key": "TC-85",
+                "summary": "PL- ZWD Sztuder VEIT40 10318",
+                "link": "https://veit.atlassian.net/browse/TC-85"
+            }
+        ]
+    },
+    {
+        "Customer name": "Kjernlie as",
+        "Address": {
+            "street": "Lundebyhagen",
+            "city": "Braskereidfoss",
+            "postal_code": "N-2435",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-374",
+                "summary": "NO - Kjernlie VOLVO 26t 11108",
+                "link": "https://veit.atlassian.net/browse/TC-374"
+            }
+        ]
+    },
+    {
+        "Customer name": "Abro zdražílek s.r.o.",
+        "Address": {
+            "street": "Litobratřická 763",
+            "city": "Hrušovany nad Jevišovkou",
+            "postal_code": "671 67",
+            "country": "Česká republika",
+            "latitude": "48.8421138",
+            "longitude": "16.41002"
+        },
+        "issues": [
+            {
+                "key": "TC-373",
+                "summary": "CZ - Abro Zdražílek MAN 26t 21008",
+                "link": "https://veit.atlassian.net/browse/TC-373"
+            },
+            {
+                "key": "TC-142",
+                "summary": "CZ-Abro VEIT26 30419",
+                "link": "https://veit.atlassian.net/browse/TC-142"
+            }
+        ]
+    },
+    {
+        "Customer name": "Gradus – 1 ltd.",
+        "Address": {
+            "street": "Industrial district",
+            "city": "Stara Zagora",
+            "postal_code": "6000",
+            "country": "Bulharsko"
+        },
+        "issues": [
+            {
+                "key": "TC-369",
+                "summary": "BG - Gradus SVAN 10308",
+                "link": "https://veit.atlassian.net/browse/TC-369"
+            },
+            {
+                "key": "TC-367",
+                "summary": "BG - Gradus SVAN 10709",
+                "link": "https://veit.atlassian.net/browse/TC-367"
+            },
+            {
+                "key": "TC-349",
+                "summary": "BG - Gradus SVAN 10412",
+                "link": "https://veit.atlassian.net/browse/TC-349"
+            },
+            {
+                "key": "TC-335",
+                "summary": "BG-Gradus VEIT40 10522",
+                "link": "https://veit.atlassian.net/browse/TC-335"
+            },
+            {
+                "key": "TC-240",
+                "summary": "BG-Gradus SVAN 20415",
+                "link": "https://veit.atlassian.net/browse/TC-240"
+            },
+            {
+                "key": "TC-64",
+                "summary": "BG-Gradus VEIT40 20917",
+                "link": "https://veit.atlassian.net/browse/TC-64"
+            }
+        ]
+    },
+    {
+        "Customer name": "Bábolna brojler kft",
+        "Address": {
+            "street": "Radnóti Miklós u. 16",
+            "city": "Bábolna",
+            "postal_code": "H-2943",
+            "country": "Maďarsko"
+        },
+        "issues": [
+            {
+                "key": "TC-363",
+                "summary": "HU - Bro-ker-bet MAN 26t 11110",
+                "link": "https://veit.atlassian.net/browse/TC-363"
+            },
+            {
+                "key": "TC-350",
+                "summary": "HU - Bro-Ker-Bet MAN 26t 10712",
+                "link": "https://veit.atlassian.net/browse/TC-350"
+            },
+            {
+                "key": "TC-200",
+                "summary": "HU -Bro-Ker-Bet SVAN 11212",
+                "link": "https://veit.atlassian.net/browse/TC-200"
+            },
+            {
+                "key": "TC-198",
+                "summary": "HU-Bro-Ker-Bet VEIT26 11019",
+                "link": "https://veit.atlassian.net/browse/TC-198"
+            },
+            {
+                "key": "TC-166",
+                "summary": "HU-Bro-Ker-Bet Man 26t 10815",
+                "link": "https://veit.atlassian.net/browse/TC-166"
+            }
+        ]
+    },
+    {
+        "Customer name": "Duck-tec brüterei gmbh",
+        "Address": {
+            "street": "Bergholzer Straße 6",
+            "city": "Bad Belzig",
+            "postal_code": "14806",
+            "country": "Německo",
+            "latitude": "52.135685",
+            "longitude": "12.5831048"
+        },
+        "issues": [
+            {
+                "key": "TC-348",
+                "summary": "DE - Duck-Tec MAN 12t 21113",
+                "link": "https://veit.atlassian.net/browse/TC-348"
+            },
+            {
+                "key": "TC-156",
+                "summary": "DE-Duck-tec VW VEIT5 10116",
+                "link": "https://veit.atlassian.net/browse/TC-156"
+            },
+            {
+                "key": "TC-75",
+                "summary": "DE-Duck-Tec VEIT40 20118",
+                "link": "https://veit.atlassian.net/browse/TC-75"
+            }
+        ]
+    },
+    {
+        "Customer name": "Cherry valley farms limited",
+        "Address": {
+            "street": "Karlsdorf 28",
+            "city": "Neuhardenberg",
+            "postal_code": "15320",
+            "country": "Německo",
+            "latitude": "52.6111134",
+            "longitude": "14.1947648"
+        },
+        "issues": [
+            {
+                "key": "TC-343",
+                "summary": "DE - Cherry Valley VW Crafter 5t 30413",
+                "link": "https://veit.atlassian.net/browse/TC-343"
+            }
+        ]
+    },
+    {
+        "Customer name": "Maple lodge farms ltd.",
+        "Address": {
+            "street": "8301 Winston Churchill Blvd.",
+            "city": "Brampton",
+            "postal_code": "L6Y0A2",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-336",
+                "summary": "CAN-Maple Lodge VEIT26 20122",
+                "link": "https://veit.atlassian.net/browse/TC-336"
+            }
+        ]
+    },
+    {
+        "Customer name": "Hendrix genetics hatchery",
+        "Address": {
+            "street": "29629 472nd Avenue",
+            "city": "Beresford, SD",
+            "postal_code": "57004",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-330",
+                "summary": "ISR-Hatchery A.M. VEIT26 10122",
+                "link": "https://veit.atlassian.net/browse/TC-330"
+            },
+            {
+                "key": "TC-141",
+                "summary": "F-Hendrix Genetics VEIT26 20419",
+                "link": "https://veit.atlassian.net/browse/TC-141"
+            }
+        ]
+    },
+    {
+        "Customer name": "Animalco ag",
+        "Address": {
+            "street": "Hermenweg 21 ",
+            "city": "Staufen ",
+            "postal_code": "5603",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-328",
+                "summary": "CH-Animalco VEIT3,5UL 41121",
+                "link": "https://veit.atlassian.net/browse/TC-328"
+            },
+            {
+                "key": "TC-284",
+                "summary": "CH-Animalco VEIT3,5UL 20521",
+                "link": "https://veit.atlassian.net/browse/TC-284"
+            },
+            {
+                "key": "TC-4",
+                "summary": "CH-Animalco VEIT3,5UL 30819",
+                "link": "https://veit.atlassian.net/browse/TC-4"
+            },
+            {
+                "key": "TC-1",
+                "summary": "CH-Animalco VEIT3,5UL 40719",
+                "link": "https://veit.atlassian.net/browse/TC-1"
+            }
+        ]
+    },
+    {
+        "Customer name": "Modernhatch sp. z o.o sp. k.",
+        "Address": {
+            "street": "Magnuszowice 53a",
+            "city": "Gracze",
+            "postal_code": "49-156",
+            "country": "Polsko"
+        },
+        "issues": [
+            {
+                "key": "TC-317",
+                "summary": "PL - ModernHatch Mercedes 3,5t 20914 ",
+                "link": "https://veit.atlassian.net/browse/TC-317"
+            },
+            {
+                "key": "TC-316",
+                "summary": "PL - ModernHatch MAN 26t 10413",
+                "link": "https://veit.atlassian.net/browse/TC-316"
+            },
+            {
+                "key": "TC-309",
+                "summary": "PL-Modernhatch VEIT26 20215",
+                "link": "https://veit.atlassian.net/browse/TC-309"
+            },
+            {
+                "key": "TC-172",
+                "summary": "PL-ModernHatch Mercedes 26t 20915",
+                "link": "https://veit.atlassian.net/browse/TC-172"
+            }
+        ]
+    },
+    {
+        "Customer name": "Gerhard skreinig",
+        "Address": {
+            "street": "Eselsdorf 9",
+            "city": "St.Michael",
+            "postal_code": "9411",
+            "country": "Rakousko",
+            "latitude": "46.82050015",
+            "longitude": "14.781004008550727"
+        },
+        "issues": [
+            {
+                "key": "TC-314",
+                "summary": "AT-Skreinig VEIT26 21021",
+                "link": "https://veit.atlassian.net/browse/TC-314"
+            },
+            {
+                "key": "TC-80",
+                "summary": "A-Skreinig VEIT26 20218",
+                "link": "https://veit.atlassian.net/browse/TC-80"
+            }
+        ]
+    },
+    {
+        "Customer name": "Sarl couvoir d'hem",
+        "Address": {
+            "street": "47 Che du pont de Wylder",
+            "city": "Wormhout",
+            "postal_code": "59470",
+            "country": "Francie",
+            "latitude": "50.9039353",
+            "longitude": "2.4968275"
+        },
+        "issues": [
+            {
+                "key": "TC-291",
+                "summary": "FR-Couvoir d´Hem VEIT26 10821",
+                "link": "https://veit.atlassian.net/browse/TC-291"
+            }
+        ]
+    },
+    {
+        "Customer name": "Zaklad wylegu drobiu zdrowy kurczak s.c.",
+        "Address": {
+            "street": "Stok Ruski 81",
+            "city": "Mordy",
+            "postal_code": null,
+            "country": "Polsko"
+        },
+        "issues": [
+            {
+                "key": "TC-286",
+                "summary": "PL-Kurczak VEIT26 10621",
+                "link": "https://veit.atlassian.net/browse/TC-286"
+            }
+        ]
+    },
+    {
+        "Customer name": "Virag-trans kft",
+        "Address": {
+            "street": "Alsópatyi utca 1/A",
+            "city": "Rábapaty",
+            "postal_code": "9641",
+            "country": "Maďarsko",
+            "latitude": "47.3071992",
+            "longitude": "16.9282175"
+        },
+        "issues": [
+            {
+                "key": "TC-283",
+                "summary": "HU-Virag VEIT40NG 10521",
+                "link": "https://veit.atlassian.net/browse/TC-283"
+            }
+        ]
+    },
+    {
+        "Customer name": "Freedom ranger hatchery, inc.",
+        "Address": {
+            "street": "187 N Windy Mansion Rd",
+            "city": "Reinholds",
+            "postal_code": "PA 17569",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-282",
+                "summary": "USA-Freedom Ranger VEIT12 30421",
+                "link": "https://veit.atlassian.net/browse/TC-282"
+            }
+        ]
+    },
+    {
+        "Customer name": "Partiz 2000 kft.",
+        "Address": {
+            "street": "Rákóczi u. 6/1.",
+            "city": "Szarvas",
+            "postal_code": "5540",
+            "country": "Maďarsko",
+            "latitude": "46.8549564",
+            "longitude": "20.5504525"
+        },
+        "issues": [
+            {
+                "key": "TC-273",
+                "summary": "HU-Partiz VEIT18 10221",
+                "link": "https://veit.atlassian.net/browse/TC-273"
+            }
+        ]
+    },
+    {
+        "Customer name": "Brüterei schlierbach gmbh",
+        "Address": {
+            "street": "Steinbachbrücke 35",
+            "city": "Pettenbach",
+            "postal_code": "A-4643",
+            "country": "Rakousko"
+        },
+        "issues": [
+            {
+                "key": "TC-266",
+                "summary": "AT - Schlierbach MAN 26t 10813",
+                "link": "https://veit.atlassian.net/browse/TC-266"
+            },
+            {
+                "key": "TC-139",
+                "summary": "A-Schlierbach VEIT26 50319",
+                "link": "https://veit.atlassian.net/browse/TC-139"
+            },
+            {
+                "key": "TC-108",
+                "summary": "A-Schlierbach VEIT26 10918",
+                "link": "https://veit.atlassian.net/browse/TC-108"
+            },
+            {
+                "key": "TC-41",
+                "summary": "A-Schlierbach VEIT26 10217",
+                "link": "https://veit.atlassian.net/browse/TC-41"
+            }
+        ]
+    },
+    {
+        "Customer name": "Mastputen brüterei ahlhorn",
+        "Address": {
+            "street": "Wildeshauser Str. 7 ",
+            "city": "Ahlhorn",
+            "postal_code": "26197",
+            "country": "Německo",
+            "latitude": "52.900069",
+            "longitude": "8.21294155"
+        },
+        "issues": [
+            {
+                "key": "TC-263",
+                "summary": "DE-Mastputen VEIT26 20121",
+                "link": "https://veit.atlassian.net/browse/TC-263"
+            },
+            {
+                "key": "TC-253",
+                "summary": "DE-Mastputen VEIT26 20820",
+                "link": "https://veit.atlassian.net/browse/TC-253"
+            },
+            {
+                "key": "TC-181",
+                "summary": "DE-Mastputen VEIT40 10919",
+                "link": "https://veit.atlassian.net/browse/TC-181"
+            },
+            {
+                "key": "TC-113",
+                "summary": "DE-Mastputen VEIT3,5UL 61018",
+                "link": "https://veit.atlassian.net/browse/TC-113"
+            }
+        ]
+    },
+    {
+        "Customer name": "Coto cic s.a.",
+        "Address": {
+            "street": "Paysandu 1842 (CP 1416)",
+            "city": "Buenos Aires",
+            "postal_code": "C1416CDP",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-260",
+                "summary": "ARG-Coto VEIT18 21020",
+                "link": "https://veit.atlassian.net/browse/TC-260"
+            },
+            {
+                "key": "TC-55",
+                "summary": "AGR-Coto VEIT18 40617",
+                "link": "https://veit.atlassian.net/browse/TC-55"
+            }
+        ]
+    },
+    {
+        "Customer name": "Lul refael isca sde boker",
+        "Address": {
+            "street": "Kibuts Sde Boker",
+            "city": null,
+            "postal_code": null,
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-256",
+                "summary": "ISR-Lul Refael VEIT26 30920",
+                "link": "https://veit.atlassian.net/browse/TC-256"
+            },
+            {
+                "key": "TC-255",
+                "summary": "ISR-Lul Refael VEIT26 20920",
+                "link": "https://veit.atlassian.net/browse/TC-255"
+            }
+        ]
+    },
+    {
+        "Customer name": "Wylęgarnia indyków marek górski",
+        "Address": {
+            "street": "Przemysłowa 2",
+            "city": "Brzesko",
+            "postal_code": "32-800 ",
+            "country": "Polsko",
+            "latitude": "50.11139025",
+            "longitude": "20.619141667889856"
+        },
+        "issues": [
+            {
+                "key": "TC-254",
+                "summary": "PL- Wylęgarnia VEIT40 10809",
+                "link": "https://veit.atlassian.net/browse/TC-254"
+            },
+            {
+                "key": "TC-148",
+                "summary": "PL-Marek Gorski VEIT3,5UL 50419",
+                "link": "https://veit.atlassian.net/browse/TC-148"
+            },
+            {
+                "key": "TC-3",
+                "summary": "PL-Marek Gorski VEIT3,5UL 20819 ",
+                "link": "https://veit.atlassian.net/browse/TC-3"
+            }
+        ]
+    },
+    {
+        "Customer name": "Adelsasen klackeri ab",
+        "Address": {
+            "street": "Adelsasen Stora",
+            "city": "Levene",
+            "postal_code": "53493",
+            "country": "Švédsko"
+        },
+        "issues": [
+            {
+                "key": "TC-250",
+                "summary": "SE-Adelsasen VEIT3,5UL 40620",
+                "link": "https://veit.atlassian.net/browse/TC-250"
+            }
+        ]
+    },
+    {
+        "Customer name": "San andres",
+        "Address": {
+            "street": null,
+            "city": null,
+            "postal_code": null,
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-239",
+                "summary": "DE-Andre Van Olst (Lohmann) SVAN 20613",
+                "link": "https://veit.atlassian.net/browse/TC-239"
+            },
+            {
+                "key": "TC-138",
+                "summary": "MEX-San Andres VEIT26 40319",
+                "link": "https://veit.atlassian.net/browse/TC-138"
+            },
+            {
+                "key": "TC-131",
+                "summary": "MEX-San Antonio VEIT26HC 10219",
+                "link": "https://veit.atlassian.net/browse/TC-131"
+            },
+            {
+                "key": "TC-26",
+                "summary": "MEX-San Andrés Kenworth VEIT26 30516",
+                "link": "https://veit.atlassian.net/browse/TC-26"
+            },
+            {
+                "key": "TC-25",
+                "summary": "MEX-San Andrés Kenworth VEIT26 20516",
+                "link": "https://veit.atlassian.net/browse/TC-25"
+            }
+        ]
+    },
+    {
+        "Customer name": "Ameta holding",
+        "Address": {
+            "street": "PO BOX 181",
+            "city": "Razgrad",
+            "postal_code": "7200",
+            "country": "Bulharsko"
+        },
+        "issues": [
+            {
+                "key": "TC-236",
+                "summary": "BG-Ameta VEIT26 30620",
+                "link": "https://veit.atlassian.net/browse/TC-236"
+            },
+            {
+                "key": "TC-197",
+                "summary": "BG-Ameta VEIT12 21119",
+                "link": "https://veit.atlassian.net/browse/TC-197"
+            }
+        ]
+    },
+    {
+        "Customer name": "Wayne farms llc",
+        "Address": {
+            "street": "4110 Continental Drive",
+            "city": "Oakwood, Georgia",
+            "postal_code": "30566",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-235",
+                "summary": "USA- Wayne Farms VEIT40 50520 ",
+                "link": "https://veit.atlassian.net/browse/TC-235"
+            },
+            {
+                "key": "TC-230",
+                "summary": "USA-Wayne Farms VEIT40 40520",
+                "link": "https://veit.atlassian.net/browse/TC-230"
+            },
+            {
+                "key": "TC-229",
+                "summary": "USA-Wayne Farms VEIT40 30520",
+                "link": "https://veit.atlassian.net/browse/TC-229"
+            },
+            {
+                "key": "TC-222",
+                "summary": "USA-Wayne Farms VEIT40 30320",
+                "link": "https://veit.atlassian.net/browse/TC-222"
+            }
+        ]
+    },
+    {
+        "Customer name": "Atak-mada kft",
+        "Address": {
+            "street": "Táncsics Mihály Utca 44/C.",
+            "city": "Budapest",
+            "postal_code": "1038",
+            "country": "Maďarsko",
+            "latitude": "47.6030415",
+            "longitude": "19.0491871"
+        },
+        "issues": [
+            {
+                "key": "TC-232",
+                "summary": "HU-Atak Mada Svan 20615",
+                "link": "https://veit.atlassian.net/browse/TC-232"
+            }
+        ]
+    },
+    {
+        "Customer name": "Blenta ab",
+        "Address": {
+            "street": "Klackerivagen 54-5",
+            "city": "Blentarp",
+            "postal_code": "275 64",
+            "country": "Švédsko",
+            "latitude": "55.5799382",
+            "longitude": "13.63173"
+        },
+        "issues": [
+            {
+                "key": "TC-216",
+                "summary": "SE-Blenta VEIT26 40220",
+                "link": "https://veit.atlassian.net/browse/TC-216"
+            },
+            {
+                "key": "TC-215",
+                "summary": "SE-Blenta VEIT26 30220",
+                "link": "https://veit.atlassian.net/browse/TC-215"
+            },
+            {
+                "key": "TC-214",
+                "summary": "SE-Blenta VEIT26 20220",
+                "link": "https://veit.atlassian.net/browse/TC-214"
+            },
+            {
+                "key": "TC-213",
+                "summary": "SE-Blenta VEIT26 10220",
+                "link": "https://veit.atlassian.net/browse/TC-213"
+            }
+        ]
+    },
+    {
+        "Customer name": "Gebr. böcker putenbrüterei gmbh",
+        "Address": {
+            "street": "Am Wasserturm 5",
+            "city": "Wallhausen",
+            "postal_code": "74599",
+            "country": "Německo",
+            "latitude": "49.2167955",
+            "longitude": "10.073771281497967"
+        },
+        "issues": [
+            {
+                "key": "TC-209",
+                "summary": "DE-Böcker VEIT18 10120",
+                "link": "https://veit.atlassian.net/browse/TC-209"
+            }
+        ]
+    },
+    {
+        "Customer name": "Dekkers transport holland holding bv",
+        "Address": {
+            "street": "Heliosstraat 11",
+            "city": "Tilburg",
+            "postal_code": "5048 CB",
+            "country": "Nizozemsko",
+            "latitude": "51.5972591",
+            "longitude": "5.0279988"
+        },
+        "issues": [
+            {
+                "key": "TC-206",
+                "summary": "NL-Dekkers VEIT40 10314",
+                "link": "https://veit.atlassian.net/browse/TC-206"
+            },
+            {
+                "key": "TC-167",
+                "summary": "NL-Dekkers VEIT40 20315",
+                "link": "https://veit.atlassian.net/browse/TC-167"
+            },
+            {
+                "key": "TC-162",
+                "summary": "NL-Dekkers Svan VEIT40 10216",
+                "link": "https://veit.atlassian.net/browse/TC-162"
+            }
+        ]
+    },
+    {
+        "Customer name": "Aviagen north america",
+        "Address": {
+            "street": "920 Explorere Blvd. NW",
+            "city": "Huntsville",
+            "postal_code": "35806",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-188",
+                "summary": "PL-Avi-bio SVAN 10910",
+                "link": "https://veit.atlassian.net/browse/TC-188"
+            },
+            {
+                "key": "TC-146",
+                "summary": "UK-Aviagen VEIT26 30519",
+                "link": "https://veit.atlassian.net/browse/TC-146"
+            },
+            {
+                "key": "TC-145",
+                "summary": "UK-Aviagen VEIT18 20519",
+                "link": "https://veit.atlassian.net/browse/TC-145"
+            },
+            {
+                "key": "TC-116",
+                "summary": "USA-Aviagen VEIT40 40918",
+                "link": "https://veit.atlassian.net/browse/TC-116"
+            },
+            {
+                "key": "TC-2",
+                "summary": "UK-Aviagen VEIT3,5UL 10819",
+                "link": "https://veit.atlassian.net/browse/TC-2"
+            }
+        ]
+    },
+    {
+        "Customer name": "Fakieh poultry farms co.",
+        "Address": {
+            "street": "Fakieh Commercial Center, P.O.BOX 2621",
+            "city": "Makkah",
+            "postal_code": "21955",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-165",
+                "summary": "SA-Fakieh Poultry 30615",
+                "link": "https://veit.atlassian.net/browse/TC-165"
+            }
+        ]
+    },
+    {
+        "Customer name": "Nagisz cplc.",
+        "Address": {
+            "street": "Fő út 119.",
+            "city": "Nádudvar",
+            "postal_code": "H-4181",
+            "country": "Maďarsko"
+        },
+        "issues": [
+            {
+                "key": "TC-155",
+                "summary": "HU-Nagisz  26t 11115",
+                "link": "https://veit.atlassian.net/browse/TC-155"
+            },
+            {
+                "key": "TC-112",
+                "summary": "HU-Nagisz VEIT40 41018",
+                "link": "https://veit.atlassian.net/browse/TC-112"
+            },
+            {
+                "key": "TC-73",
+                "summary": "HU-Nagisz VEIT40 31217",
+                "link": "https://veit.atlassian.net/browse/TC-73"
+            }
+        ]
+    },
+    {
+        "Customer name": "Western brand poultry products ltd",
+        "Address": {
+            "street": "Knock Road",
+            "city": "Ballyhaunis",
+            "postal_code": null,
+            "country": "Irsko"
+        },
+        "issues": [
+            {
+                "key": "TC-153",
+                "summary": "IE-Western Brand VEIT40 10719",
+                "link": "https://veit.atlassian.net/browse/TC-153"
+            },
+            {
+                "key": "TC-51",
+                "summary": "IE-Western Brand Poultry VEIT40 30517",
+                "link": "https://veit.atlassian.net/browse/TC-51"
+            }
+        ]
+    },
+    {
+        "Customer name": "Broeierij claeys bvba",
+        "Address": {
+            "street": "Industriezone 24",
+            "city": "Kruishoutem",
+            "postal_code": "9770",
+            "country": "Belgie",
+            "latitude": "50.9049088",
+            "longitude": "3.4760933"
+        },
+        "issues": [
+            {
+                "key": "TC-150",
+                "summary": "B-Broeierij Claeys VEIT18 20619",
+                "link": "https://veit.atlassian.net/browse/TC-150"
+            }
+        ]
+    },
+    {
+        "Customer name": "Probroed bv",
+        "Address": {
+            "street": "Zwolseweg 17",
+            "city": "Groenlo",
+            "postal_code": "7142 HE",
+            "country": "Nizozemsko",
+            "latitude": "52.0301609",
+            "longitude": "6.6345905"
+        },
+        "issues": [
+            {
+                "key": "TC-147",
+                "summary": "NL-Probroed VEIT26 10619",
+                "link": "https://veit.atlassian.net/browse/TC-147"
+            },
+            {
+                "key": "TC-32",
+                "summary": "NL-Probroed a Sloot VEIT40 10916",
+                "link": "https://veit.atlassian.net/browse/TC-32"
+            },
+            {
+                "key": "TC-6",
+                "summary": "NL-Probroed VEIT40 21218",
+                "link": "https://veit.atlassian.net/browse/TC-6"
+            }
+        ]
+    },
+    {
+        "Customer name": "Chickliner int. transport",
+        "Address": {
+            "street": "De Hooge Hoek 10",
+            "city": "Renswoude",
+            "postal_code": "3927 GG",
+            "country": "Nizozemsko",
+            "latitude": "52.0799811",
+            "longitude": "5.5379656"
+        },
+        "issues": [
+            {
+                "key": "TC-130",
+                "summary": "NL-Chickliner VEIT3,5UL 30119",
+                "link": "https://veit.atlassian.net/browse/TC-130"
+            }
+        ]
+    },
+    {
+        "Customer name": "Select genetics",
+        "Address": {
+            "street": "West 1st Avenue 3939",
+            "city": "Willmar",
+            "postal_code": "MN 56201",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-123",
+                "summary": "USA Aviagen NA VEIT40 20119",
+                "link": "https://veit.atlassian.net/browse/TC-123"
+            }
+        ]
+    },
+    {
+        "Customer name": "L’oeuf d’or",
+        "Address": {
+            "street": "Rue Monty 41",
+            "city": " Gesves",
+            "postal_code": "5340",
+            "country": "Belgie",
+            "latitude": "50.3946227",
+            "longitude": "5.119368591861072"
+        },
+        "issues": [
+            {
+                "key": "TC-122",
+                "summary": "B-L’oeuf d’Or VEIT3,5UL 10119",
+                "link": "https://veit.atlassian.net/browse/TC-122"
+            }
+        ]
+    },
+    {
+        "Customer name": "Hybrid turkeys a hendrix genetic company",
+        "Address": {
+            "street": "945 Turkey Run Road",
+            "city": "Harrisonburg",
+            "postal_code": "VA2281",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-94",
+                "summary": "USA-Hybrid Turkeys VEIT40 21018",
+                "link": "https://veit.atlassian.net/browse/TC-94"
+            },
+            {
+                "key": "TC-93",
+                "summary": "USA-Hybrid Turkeys VEIT40 11018",
+                "link": "https://veit.atlassian.net/browse/TC-93"
+            },
+            {
+                "key": "TC-92",
+                "summary": "USA-Hybrid Turkeys VEIT26pup 20818",
+                "link": "https://veit.atlassian.net/browse/TC-92"
+            },
+            {
+                "key": "TC-91",
+                "summary": "USA-Hybrid Turkeys VEIT26pup 10818",
+                "link": "https://veit.atlassian.net/browse/TC-91"
+            },
+            {
+                "key": "TC-90",
+                "summary": "USA-Hybrid Turkeys VEIT40 20418",
+                "link": "https://veit.atlassian.net/browse/TC-90"
+            },
+            {
+                "key": "TC-89",
+                "summary": "USA-Hybrid Turkeys VEIT40 10418",
+                "link": "https://veit.atlassian.net/browse/TC-89"
+            },
+            {
+                "key": "TC-84",
+                "summary": "USA-Hybrid Turkeys VEIT26pup 40118",
+                "link": "https://veit.atlassian.net/browse/TC-84"
+            },
+            {
+                "key": "TC-83",
+                "summary": "USA-Hybrid Turkeys VEIT26pup 30118",
+                "link": "https://veit.atlassian.net/browse/TC-83"
+            },
+            {
+                "key": "TC-67",
+                "summary": "USA-Hybrid Turkeys VEIT26pup 31017",
+                "link": "https://veit.atlassian.net/browse/TC-67"
+            }
+        ]
+    },
+    {
+        "Customer name": "Yeffe-hod ltd.",
+        "Address": {
+            "street": "P.o. Evtah",
+            "city": "Kvutzat Yavne",
+            "postal_code": null,
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-88",
+                "summary": "ISR-Yeffe-Hod VEIT26 40318",
+                "link": "https://veit.atlassian.net/browse/TC-88"
+            }
+        ]
+    },
+    {
+        "Customer name": "Hegyhát br ltd.",
+        "Address": {
+            "street": "0243/3 hrsz",
+            "city": "Szentgotthard-Rabafüzes",
+            "postal_code": "9955",
+            "country": "Maďarsko"
+        },
+        "issues": [
+            {
+                "key": "TC-87",
+                "summary": "HU-Hegyhát VEIT26 30318",
+                "link": "https://veit.atlassian.net/browse/TC-87"
+            }
+        ]
+    },
+    {
+        "Customer name": "Steinsland & co as",
+        "Address": {
+            "street": "Hauglandsveien 204",
+            "city": "BRYNE",
+            "postal_code": "N-4346",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-74",
+                "summary": "N-Steinsland VEIT12 10118",
+                "link": "https://veit.atlassian.net/browse/TC-74"
+            }
+        ]
+    },
+    {
+        "Customer name": "Efrochei ha-galil ve-haemek",
+        "Address": {
+            "street": "Kibbutz Sarid",
+            "city": null,
+            "postal_code": "36589",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-72",
+                "summary": "ISR-Efrochei VEIT26 21217",
+                "link": "https://veit.atlassian.net/browse/TC-72"
+            },
+            {
+                "key": "TC-21",
+                "summary": "ISR-Efrochei VEIT26 10416",
+                "link": "https://veit.atlassian.net/browse/TC-21"
+            }
+        ]
+    },
+    {
+        "Customer name": "Diamond trucks",
+        "Address": {
+            "street": "Commercial Way",
+            "city": "Newtownabbey",
+            "postal_code": "BT36 4UB",
+            "country": null
+        },
+        "issues": [
+            {
+                "key": "TC-65",
+                "summary": "AU-Truck Corp VEIT12 11017",
+                "link": "https://veit.atlassian.net/browse/TC-65"
+            }
+        ]
+    },
+    {
+        "Customer name": "Geldof poultry products",
+        "Address": {
+            "street": "Dadizelestraat 158",
+            "city": "Menen",
+            "postal_code": "8930",
+            "country": "Belgie",
+            "latitude": "50.8069348",
+            "longitude": "3.1119227"
+        },
+        "issues": [
+            {
+                "key": "TC-54",
+                "summary": "B-Geldof Poultry VEIT3,5UL 30617",
+                "link": "https://veit.atlassian.net/browse/TC-54"
+            }
+        ]
+    },
+    {
+        "Customer name": "Avtoprevozništvo pavel jelševar s.p.",
+        "Address": {
+            "street": "Ljubljanska cesta 5",
+            "city": "Dob",
+            "postal_code": "1233",
+            "country": "Slovinsko",
+            "latitude": "46.1556188",
+            "longitude": "14.6333423"
+        },
+        "issues": [
+            {
+                "key": "TC-36",
+                "summary": "SLO-Jelševar VEIT3,5 10117",
+                "link": "https://veit.atlassian.net/browse/TC-36"
+            }
+        ]
+    },
+    {
+        "Customer name": "Swedfarm ab",
+        "Address": {
+            "street": "Hästhovsvägen 1",
+            "city": "Linghem",
+            "postal_code": "585 64",
+            "country": "Švédsko",
+            "latitude": "58.436521049999996",
+            "longitude": "15.796092536905615"
+        },
+        "issues": [
+            {
+                "key": "TC-28",
+                "summary": "SE-Swedfarm VEIT26 20616",
+                "link": "https://veit.atlassian.net/browse/TC-28"
+            }
+        ]
+    },
+    {
+        "Customer name": "Whitaker hatcheries sales ltd",
+        "Address": {
+            "street": "Carrigaline Industrial Park",
+            "city": "Carrigaline, Co Cork",
+            "postal_code": "P43YH57",
+            "country": "Irsko"
+        },
+        "issues": [
+            {
+                "key": "TC-22",
+                "summary": "IE-Whitaker VEIT7,5 20416",
+                "link": "https://veit.atlassian.net/browse/TC-22"
+            },
+            {
+                "key": "TC-11",
+                "summary": "IE-Whitaker VEIT3,5UL 40119",
+                "link": "https://veit.atlassian.net/browse/TC-11"
+            }
+        ]
+    }
+]
